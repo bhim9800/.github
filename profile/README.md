@@ -6,9 +6,9 @@ Welcome to the official **BTW Win Game Register** page. If you're new to BTW Win
 
 ## 🔗 Quick Access Links
 
-### 👉 [BTW Win Game - Login](https://gamelogin.in/btw-win/)
-### 👉 [BTW Win Game - Register](https://gamelogin.in/btw-win/)
-### 👉 [BTW Win Game - Download](https://gamelogin.in/btw-win/)
+### 👉 [BTW Win Game - Login](https://btwwin1.com/#/register?invitationCode=18346824241)
+### 👉 [BTW Win Game - Register](https://btwwin1.com/#/register?invitationCode=18346824241)
+### 👉 [BTW Win Game - Download](https://btwwin1.com/#/register?invitationCode=18346824241)
 
 ---
 
@@ -16,7 +16,7 @@ Welcome to the official **BTW Win Game Register** page. If you're new to BTW Win
 
 Boost your start with exclusive bonuses by entering this referral code while registering:
 
-**Referral Code:** `74545701144`
+**Referral Code:** `18346824241`
 
 ---
 
